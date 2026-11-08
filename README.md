@@ -77,7 +77,7 @@ To cancel your subscription, open **Options > Account > Manage subscription** in
 
 ## Help
 
-Write to [[support@YOUR-DOMAIN]](mailto:[support@YOUR-DOMAIN]). To report a problem, please include your app version (in **Options**) and what you were doing when it happened.
+Write to [[support@gm-companion.com]](mailto:[support@gm-companion.com]). To report a problem, please include your app version (in **Options**) and what you were doing when it happened.
 
 ---
 
