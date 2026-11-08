@@ -77,8 +77,8 @@ To cancel your subscription, open **Options > Account > Manage subscription** in
 
 ## Help
 
-Write to [[support@gm-companion.com]](mailto:[support@gm-companion.com]). To report a problem, please include your app version (in **Options**) and what you were doing when it happened.
+Write to [support@gm-companion.com](mailto:support@gm-companion.com). To report a problem, please include your app version (in **Options**) and what you were doing when it happened.
 
 ---
 
-<sub>GM Companion is independent software and is not affiliated with, endorsed or sponsored by Wizards of the Coast. Dungeons &amp; Dragons and D&amp;D are trademarks of Wizards of the Coast LLC. The app includes material from the System Reference Document 5.2 by Wizards of the Coast LLC, available at <a href="https://www.dndbeyond.com/srd">dndbeyond.com/srd</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>. © [YOUR LEGAL NAME OR BUSINESS NAME]. See the <a href="https://[YOUR-DOMAIN]/terms/">terms of service</a>.</sub>
+<sub>GM Companion is independent software and is not affiliated with, endorsed or sponsored by Wizards of the Coast. Dungeons &amp; Dragons and D&amp;D are trademarks of Wizards of the Coast LLC. The app includes material from the System Reference Document 5.2 by Wizards of the Coast LLC, available at <a href="https://www.dndbeyond.com/srd">dndbeyond.com/srd</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>.
