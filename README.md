@@ -21,7 +21,7 @@
 
 GM Companion keeps your campaign in one place, listens to your players, and opens the right page before you've finished reaching for your notes. When a player says "I want to talk to the blacksmith", that NPC's profile opens on its own: their voice, what they want, their secrets and who they know.
 
-This page is where the installers are published. To learn more about the app, visit the [website](https://www.gm-companion.com/pricing/).
+This page is where the installers are published. To learn more about the app, visit the [website](https://www.gm-companion.com/).
 
 ## Download
 
