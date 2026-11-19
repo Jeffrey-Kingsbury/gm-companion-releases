@@ -46,7 +46,7 @@ If Windows shows "Windows protected your PC", that's SmartScreen being careful w
 ## Getting started
 
 1. **Sign in** with Google or Discord, or with a code sent to your email address. There's no password to remember.
-2. **Start your free trial.** New accounts get 7 days free. Checkout opens in your browser; nothing is charged until the trial ends, and you can cancel any time before then.
+2. **Start your free trial.** New accounts get 30 days free. Checkout opens in your browser; nothing is charged until the trial ends, and you can cancel any time before then.
 3. **Follow the short setup.** It creates your first campaign (an empty one, or the Hollowmere demo town to explore), and lets you set up an AI model and the microphone. Only the campaign is required, and everything else can be done later in **Options**.
 
 ## What's inside
