@@ -12,16 +12,16 @@
 <p align="center">
   <a href="https://github.com/Jeffrey-Kingsbury/gm-companion-releases/releases/latest"><strong>Download the latest version</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://[YOUR-DOMAIN]/">Website</a>
+  <a href="https://www.gm-companion.com">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://[YOUR-DOMAIN]/pricing/">Pricing</a>
+  <a href="https://www.gm-companion.com/pricing/">Pricing</a>
 </p>
 
 ![GM Companion showing an NPC's profile, opened after a player said "I want to talk to Thorvin"](screenshot.webp)
 
 GM Companion keeps your campaign in one place, listens to your players, and opens the right page before you've finished reaching for your notes. When a player says "I want to talk to the blacksmith", that NPC's profile opens on its own: their voice, what they want, their secrets and who they know.
 
-This page is where the installers are published. To learn more about the app, visit the [website](https://[YOUR-DOMAIN]/).
+This page is where the installers are published. To learn more about the app, visit the [website](https://www.gm-companion.com/pricing/).
 
 ## Download
 
@@ -67,7 +67,7 @@ GM Companion updates itself. It checks for new versions when it starts and every
 
 ## Your data
 
-Your campaigns stay on your computer, by default in `%APPDATA%\GM Companion\campaigns`. We never receive them. You can choose another folder in **Options > Advanced**, and back a campaign up by copying its `.db` file, which includes its portraits, pictures and maps. Read the [privacy policy](https://[YOUR-DOMAIN]/privacy/) for the full details.
+Your campaigns stay on your computer, by default in `%APPDATA%\GM Companion\campaigns`. We never receive them. You can choose another folder in **Options > Advanced**, and back a campaign up by copying its `.db` file, which includes its portraits, pictures and maps. Read the [privacy policy](https://www.gm-companion.com/privacy/) for the full details.
 
 ## Uninstall
 
